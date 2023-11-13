@@ -7,7 +7,7 @@ title: Home
 The source code to this page is great for a markdown cheat sheet, so I will keep it until I can find better content.
 Plus I am only getting this set of Github Pages up and running the 13th November 2023.
 
-**Check Posts page for more Info**
+**Check [Blog page](./blog.html) for more Info**
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
