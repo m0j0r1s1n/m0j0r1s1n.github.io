@@ -9,6 +9,10 @@ Plus I am only getting this set of Github Pages up and running the 13th November
 
 **Check [Blog page](./blog.html) for more Info**
 
+I love this image that I am using for testing purposes it pretty much encapsulates me at times:
+
+![walter](/assets/images/I-have-spent-my-whole-life-scared_walter_white.jpg)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
