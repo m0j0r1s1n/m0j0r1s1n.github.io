@@ -1,4 +1,4 @@
-Yes this brow is how I learnt Jeykll (:
+Yes this how is how I learnt Jeykll (:
 I will delete soon but it#s still helping me XD
 
 # The Midnight theme
