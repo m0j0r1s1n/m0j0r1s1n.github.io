@@ -5,7 +5,7 @@ author: m0j0
 
 Well that was actually quite fun.  "What you say". The latest box from HTB.
 
-[HTB-Hospital Achievement](https://www.hackthebox.com/achievement/machine/142920/576)
+![hospital_complete](/assets/images/hospital_complete.png)
 
 As I have said before I can't speak of the approach I took but I can say one 
 thing.
