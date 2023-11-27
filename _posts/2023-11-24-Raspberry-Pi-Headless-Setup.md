@@ -3,9 +3,7 @@ layout: default
 author: m0j0
 ---
 
-# Raspberry Pi Headless
-
-## Installation with no monitor:
+Raspberry Pi Headless Installation with no monitor:
 
 Firstly I have a Pi 4 with 8GB of RAM that I have barely used so today I decided to make use out off it by creating it headless on my old laptop with Pi imager and enabling SSH so hopefully I can just plug and play.
 
