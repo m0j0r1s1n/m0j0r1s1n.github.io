@@ -223,4 +223,9 @@ Stopped: Fri Nov 24 19:49:19 2023
 
 Clear winner the Hacktop took 50 secs and the m0j0Pi took 2 mins 10 secs. This makes me think can I clock the Pi (:
 
-This is a test as my auth has failed.
+This is a test as my auth has failed. 
+
+Sorted, that was a learning experience. As we have the OUCSS site now and I use diiferent GitHub's I had SSH issues and
+the only resolution was to remove all keys from my Hacktop.
+
+Onwards!!
