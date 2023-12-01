@@ -16,3 +16,6 @@ Read along with the story and complete the early challenges which are really
 prompts about the story and ToS. Before I know it I will be helping save
 Xmas each day on the run up to Xmas xD.
 
+I completed Day 1 an interesting lesson on AI and "prompt injection attacks".
+It was cool interacting with the ChatBot and getting that sensitve info.
+And will make me prod my on AI now xD.
