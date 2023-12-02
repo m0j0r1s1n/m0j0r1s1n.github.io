@@ -116,6 +116,7 @@ decoded_sample = converted_bytes.decode("ascii")
 print(f"Here is the flag: {decoded_sample}")
 # Here is the flag: HTB{j4v4_5pr1ng_just_b3c4m3_j4v4_sp00ky!!}  
 ```
+### The proof:
 
 ![htb_ctf_2023](/assets/images/cert.jpg)
 
