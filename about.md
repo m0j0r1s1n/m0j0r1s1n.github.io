@@ -15,10 +15,14 @@ I am currently studying the R60 BSc at the Open University going into my 3rd yea
 I have had a couple of goes at this but the past 2 years... I'll not bore
 you.
 
-So far I have completed 7 modules and this year I am finishing TM256 which is the
-Cyber Security module offered by [The Open University](https://www.open.ac.uk/).
+So far I have completed 8 modules which has gained me a Diploma in HE (Higher Education). 
+This year I am finishing TM352 which is the Level 3 Web/Mobile/Cloud module offered by 
+[The Open University](https://www.open.ac.uk/).
 
-Completed Modules:
+It only began on October the 5th so early, so far I am enjoying it :) This will lead me up to 
+System Pen-Testing one I look forward too, although have heard conflicting reports.
+
+Completed Modules to date (Oct 24):
 
 - Year 1 Modules:
   - TM111 
@@ -30,8 +34,11 @@ Completed Modules:
   - TT284
   - TM257
   - TM255
+  - TM256
 
-TM256 will complete the year 2 block (:
+- Year 3 Modules:
+  - TM352
+  - TM359
 
 Anyway [HTB](https://app.hackthebox.com/home) is my practice grounds and the Academy for learnings. I am building 
 these GitHub page/s to reinforce some machines I have completed so I have to try
@@ -39,6 +46,12 @@ them again and write better notes and save commands I have learnt.
 
 I am also learning Python in the evenings (self taught) so I'm sure a few 
 hissy thing will pop onto it.
+
+Another language I love is Bash which I have a few scripts from over the years
+that I will upload for criticism once I finish the design if the pages.
+
+See you soon (:
+
 
 Another language I love is Bash which I have a few scripts from over the years
 that I will upload for criticism once I finish the design if the pages.
