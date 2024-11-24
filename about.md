@@ -44,17 +44,8 @@ Anyway [HTB](https://app.hackthebox.com/home) is my practice grounds and the Aca
 these GitHub page/s to reinforce some machines I have completed so I have to try
 them again and write better notes and save commands I have learnt.
 
-I am also learning Python in the evenings (self taught) so I'm sure a few 
-hissy thing will pop onto it.
-
-Another language I love is Bash which I have a few scripts from over the years
-that I will upload for criticism once I finish the design if the pages.
-
 See you soon (:
 
 
-Another language I love is Bash which I have a few scripts from over the years
-that I will upload for criticism once I finish the design if the pages.
 
-See you soon (:
 
